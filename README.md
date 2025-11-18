@@ -71,17 +71,7 @@ Program tells the user if they won or lost
 |  TAILS  |
  \_______/
 
-🔮 Future Improvements (Optional)
 
-Add sound effects
-
-Add more coin designs
-
-Add menu options
-
-Add score tracking
-
-Convert to a GUI game using C# or Python
 
 💼 Why This Project Matters
 
